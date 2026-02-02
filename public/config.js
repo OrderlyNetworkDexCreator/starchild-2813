@@ -13,7 +13,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_ABSTRACT_WALLET": "false",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
-  "VITE_WALLETCONNECT_PROJECT_ID": "",
+  "VITE_WALLETCONNECT_PROJECT_ID": "47898bdc-0c29-4e5e-babb-4a0d594d1078",
   "VITE_APP_NAME": "Arthur",
   "VITE_APP_DESCRIPTION": "Trade perpetual futures with AI-native precision. Powered by Orderly Network.",
   "VITE_HAS_PRIMARY_LOGO": "true",
