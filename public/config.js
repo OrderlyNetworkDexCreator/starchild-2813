@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "arthur",
   "VITE_ORDERLY_BROKER_NAME": "Arthur",
   "VITE_BROKER_EOA_ADDRESS": "0xe99c5be12ae9ff19360eb6eb7960593c8b83bfb1",
   "VITE_DISABLE_MAINNET": "false",
@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://twitter.com/Arthur_Orderly",
   "VITE_SEO_SITE_NAME": "Arthur",
   "VITE_SEO_SITE_DESCRIPTION": "Trade perpetual futures with AI-native precision. Powered by Orderly Network.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/starchild-2813/",
+  "VITE_SEO_SITE_URL": "https://arthurdex.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@Arthur_Orderly",
