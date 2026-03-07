@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Vaults,Rewards,Points,Swap",
-  "VITE_CUSTOM_MENUS": "Agents, https://agents.arthurdex.com/",
+  "VITE_CUSTOM_MENUS": "Agents, https://agents.arthurdex.com/; Terminal, https://terminal.arthurdex.com/",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
